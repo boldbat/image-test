@@ -187,6 +187,21 @@ function App() {
 
       {/* SECTION 5 */}
       <ServicesSection />
+
+      {/* FOOTER */}
+      <footer className="w-full py-8 text-center text-white/40 text-xs border-t border-white/5 mt-auto">
+        <p>
+          Developed by Oyu Intelligence LLC —{' '}
+          <a
+            href="https://oyu-intelligence.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-white transition-colors underline decoration-white/20 hover:decoration-white/100 underline-offset-4"
+          >
+            oyu-intelligence.com
+          </a>
+        </p>
+      </footer>
     </div>
   );
 }
