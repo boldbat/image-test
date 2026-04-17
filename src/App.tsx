@@ -191,14 +191,14 @@ function App() {
       {/* FOOTER */}
       <footer className="w-full py-8 text-center text-white/40 text-xs border-t border-white/5 mt-auto">
         <p>
-          Developed by Oyu Intelligence LLC —{' '}
+          Developed by —{' '}
           <a
-            href="https://oyu-intelligence.com"
+            href="https://Oyu-Intelligence.com"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-white transition-colors underline decoration-white/20 hover:decoration-white/100 underline-offset-4"
           >
-            oyu-intelligence.com
+             Oyu Intelligence LLC
           </a>
         </p>
       </footer>
